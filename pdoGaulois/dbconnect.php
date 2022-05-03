@@ -1,6 +1,7 @@
 <?php
 
-function connect() {
+function connect() 
+{
     // déclaration des constantes pour l'utilisateur et son mot de passe
     define("DBUSER","root");
     define("DBPASS","");
